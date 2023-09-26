@@ -1,2 +1,2 @@
 # Semana_academica
-auto explicativo
+auto explicativo.
